@@ -1,8 +1,8 @@
-# 🥷 Seleninja- WORK IN PROGRESS, NOT YET AVAILABLE IN MAVEN/GRADLE
+# 🥷 Seleninja
 
 **Enhanced Selenium WebDriver library with automatic retry, smart waits, and transparent proxy wrappers**
 
-<!-- [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.seleninja/seleninja/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.seleninja/seleninja) -->
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.kordian98/seleninja/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.kordian98/seleninja)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java 17+](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://openjdk.java.net/projects/jdk/17/)
 
@@ -25,7 +25,7 @@
 ### Maven
 ```xml
 <dependency>
-    <groupId>io.github.seleninja</groupId>
+    <groupId>io.github.kordian98</groupId>
     <artifactId>seleninja</artifactId>
     <version>1.0.0</version>
 </dependency>
@@ -33,7 +33,7 @@
 
 ### Gradle
 ```kotlin
-implementation 'io.github.seleninja:seleninja:1.0.0'
+implementation 'io.github.kordian98:seleninja:1.0.0'
 ```
 
 ---
