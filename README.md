@@ -1,4 +1,4 @@
-# 🥷 Seleninja
+# 🥷 Seleninja- WORK IN PROGRESS, NOT YET AVAILABLE IN MAVEN/GRADLE
 
 **Enhanced Selenium WebDriver library with automatic retry, smart waits, and transparent proxy wrappers**
 
