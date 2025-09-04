@@ -2,7 +2,7 @@
 
 **Enhanced Selenium WebDriver library with automatic retry, smart waits, and transparent proxy wrappers**
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.kordian98/seleninja/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.kordian98/seleninja)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.kordian98/seleninja.svg)](https://central.sonatype.com/artifact/io.github.kordian98/seleninja)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java 17+](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://openjdk.java.net/projects/jdk/17/)
 
